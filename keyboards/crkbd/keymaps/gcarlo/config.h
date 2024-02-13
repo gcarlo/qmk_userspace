@@ -46,6 +46,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     #define SPLIT_MODS_ENABLE
     #define SPLIT_OLED_ENABLE
     #define OLED_TIMEOUT 60000
-    #define OLED_FONT_H "keyboards/crkbd/keymaps/colemad/glcdfont.c"
+    #define OLED_FONT_H "keyboards/crkbd/keymaps/gcarlo/glcdfont.c"
 #endif
 
